@@ -5,7 +5,8 @@ E-book hacking
 
 - Donation: Send to [bitcoin](https://blockchain.info/address/13StAcVxmfSSh6DPiJhRLe9DNBF7xP42ia)
 
-- Addres Bitcoin : 15AvbuWtVfkA1rCWxJ29j22qwN9z1cBnE7
+- Donation: Send to [ether](https://blockchain.info/address/0x6664e250107110c0C3642029a18c9ce8F4C27288)
+
 
 
 ## :octocat: Credits
