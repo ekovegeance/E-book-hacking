@@ -5,12 +5,12 @@ E-book hacking
 
 - Donation: Send to [bitcoin](https://blockchain.info/address/13StAcVxmfSSh6DPiJhRLe9DNBF7xP42ia)
 - Address bitcoin : 13StAcVxmfSSh6DPiJhRLe9DNBF7xP42ia
-- Address ether   : 13StAcVxmfSSh6DPiJhRLe9DNBF7xP42ia
+- Address ether   : 0x6664e250107110c0C3642029a18c9ce8F4C27288
 
 
 
 ## :octocat: Credits
-1. Twitter @ekovegeance7  main developer of wece
+1. Twitter @ekovegeance7  main developer of E-book-hacking
 2. https://www.parrotsec.org
 3. https://dracos-linux.org
 4. Offensive Secuirty for the awesome os
